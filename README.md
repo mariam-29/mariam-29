@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mariam</h1>
+<h1 align="center">Hi ✨, I'm Mariam</h1>
 <h3 align="center">a passionate computer science student who wants to learn more about tech</h3>
 
-- 🌱 I’m currently learning **c++**
+- 💻 I’m currently learning **c++**
 
-- 📫 How to reach me **mariammosayed5@gmail.com**
+- ⚙️ How to reach me **mariammosayed5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
