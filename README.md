@@ -5,7 +5,7 @@ a passionate computer science student who wants to learn more about tech
 ------------------------------------------------------------------------
 
 * ✉️  You can contact me at [mariammosayed5@gmail.com](mailto:mariammosayed5@gmail.com)
-* 🧠  I'm learning c++
+
 
 
 ### Socials
