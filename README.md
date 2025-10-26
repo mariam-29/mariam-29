@@ -2,20 +2,18 @@
 
 ### 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast
 
-I'm a Computer Science student at Assiut National University with a passion for building intelligent systems that solve real-world problems. I specialize in deep learning, computer vision, and data science, with hands-on experience in deploying ML models to production.
+I'm a Computer Science student  with a passion for building intelligent systems that solve real-world problems. I specialize in deep learning, computer vision, and data science, with hands-on experience in deploying ML models to production.
 
 ---
 
 ## 💫 About Me
 
-- 🎓 Bachelor's in Computer Science @ Assiut National University (CGPA: 3.75)
-- 🔭 Currently working on AI-powered applications using deep learning and full-stack development
-- 🌱 Exploring advanced topics in computer vision, time-series analysis, and satellite imagery processing
-- 🏆 NASA Space Apps Challenge 4th Place (2025) | 1 Million Ideas Hackathon 3rd Place (2025)
-- 📍 Based in Assiut, Egypt
-- 💬 Ask me about Machine Learning, Data Science, and AI applications
-- 📫 Reach me at: mariammosayed5@gmail.com
-
+-  Bachelor's in Computer Science (CGPA: 3.75)
+-  Currently working on AI-powered applications using deep learning and full-stack development
+-  Local NASA Space Apps Challenge 4th Place (2025) 
+-  Ask me about Machine Learning, Data Science, and AI applications
+-  Open-Source enthusiast and always open for contributions  
+-  Reach me at: mariammosayed5@gmail.com
 ---
 
 ## 🛠️ Tech Stack
@@ -52,30 +50,6 @@ I'm a Computer Science student at Assiut National University with a passion for 
 ![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-29&layout=compact&theme=radical)
 
----
-
-## 💼 Professional Experience
-
-**Machine Learning Intern @ Genius Technology Center** (Aug 2025 - Oct 2025)
-- Developed 3 end-to-end ML projects and contributed to production systems
-- Engineered custom CNN achieving 97% accuracy on 20M+ records dataset
-
-**Machine Learning Intern @ Elevvo** (Aug 2025 - Sep 2025)
-- Executed 4 ML tasks: regression, clustering, classification
-- Processed and visualized 10K+ records using Python and SQL
-
-**Data Science Intern @ ESSR** (Apr 2025 - Jun 2025)
-- Analyzed 1,200+ participant records and produced 20+ visual reports
-- Improved outreach efficiency by 25% through data-driven insights
-
----
-
-## 🏆 Achievements & Awards
-
-🥉 **4th Place** - NASA Space Apps Challenge, Assiut (October 2025)  
-🥉 **3rd Place** - 1 Million Ideas Hackathon, Athar (July 2025)
-
----
 
 ## 📫 Let's Connect!
 
@@ -88,8 +62,6 @@ I'm a Computer Science student at Assiut National University with a passion for 
 
 <div align="center">
   
-### 💡 "Turning data into intelligence, one model at a time"
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mariam-29&color=blueviolet&style=flat-square)
 
 </div>
