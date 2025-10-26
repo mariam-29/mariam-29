@@ -1,97 +1,95 @@
-# 👋 Hi, I'm Mariam Elsherif!
+# Hi there, I'm Mariam Elsherif 👋
 
-Welcome to my GitHub space!  
-I'm a passionate learner, developer, and creative problem solver. I thrive on building impactful projects and collaborating with like-minded people. Let’s build something amazing together!
+### 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast
 
----
-
-## 💼 About Me
-
-- 🎓 **Driven by Curiosity:** I love exploring technology, data, and design.
-- 🛠️ **Builder:** I enjoy creating—from data-driven solutions to engaging user interfaces.
-- 🌍 **Community-Oriented:** Open source, teamwork, and knowledge sharing are my fuel.
-- 📊 **Data Enthusiast:** Machine learning and analytics are my playground.
-- 🎨 **Design Minded:** I believe great experiences come from the blend of data and design.
+I'm a Computer Science student at Assiut National University with a passion for building intelligent systems that solve real-world problems. I specialize in deep learning, computer vision, and data science, with hands-on experience in deploying ML models to production.
 
 ---
 
-## 🧰 Tech Stack
+## 💫 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- 🎓 Bachelor's in Computer Science @ Assiut National University (CGPA: 3.75)
+- 🔭 Currently working on AI-powered applications using deep learning and full-stack development
+- 🌱 Exploring advanced topics in computer vision, time-series analysis, and satellite imagery processing
+- 🏆 NASA Space Apps Challenge 4th Place (2025) | 1 Million Ideas Hackathon 3rd Place (2025)
+- 📍 Based in Assiut, Egypt
+- 💬 Ask me about Machine Learning, Data Science, and AI applications
+- 📫 Reach me at: mariammosayed5@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariam-29&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Machine Learning & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariam-29&show_icons=true&theme=radical)
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-29&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mariam-29&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-## 🖼️ GitHub Activity Graph
+## 💼 Professional Experience
 
-[![Mariam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariam-29&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+**Machine Learning Intern @ Genius Technology Center** (Aug 2025 - Oct 2025)
+- Developed 3 end-to-end ML projects and contributed to production systems
+- Engineered custom CNN achieving 97% accuracy on 20M+ records dataset
 
----
+**Machine Learning Intern @ Elevvo** (Aug 2025 - Sep 2025)
+- Executed 4 ML tasks: regression, clustering, classification
+- Processed and visualized 10K+ records using Python and SQL
 
-## 🌟 Featured Links
-
-- 📧 Email: [mariammosayed5@gmail.com](mailto:mariammosayed5@gmail.com)
-- 📱 Phone: [+20 1050826711](tel:+201050826711)
-- 🎨 [Behance Portfolio](https://www.behance.net/mariammohamed205)
-- 📊 [Kaggle Profile](https://www.kaggle.com/mariammmmmmmmmmmmmm)
-
----
-
-## 🚀 Projects & Interests
-
-- **Machine Learning & Data Science:** I love working with data, building models, and making predictions that matter.
-- **Web Development:** From backend APIs to sleek frontends.
-- **Open Source:** Contributor and supporter of open collaboration.
-- **UI/UX:** Blending code and creativity for delightful experiences.
+**Data Science Intern @ ESSR** (Apr 2025 - Jun 2025)
+- Analyzed 1,200+ participant records and produced 20+ visual reports
+- Improved outreach efficiency by 25% through data-driven insights
 
 ---
 
-## 🌱 Fun Facts & Hobbies
+## 🏆 Achievements & Awards
 
-- ☕ Coffee fuels my code.
-- 🧩 Puzzle solver and logic game lover.
-- 🎨 Into art, music, and design.
-- 🌄 I recharge by exploring new places and ideas.
+🥉 **4th Place** - NASA Space Apps Challenge, Assiut (October 2025)  
+🥉 **3rd Place** - 1 Million Ideas Hackathon, Athar (July 2025)
 
 ---
 
-## 📬 Let's Connect!
+## 📫 Let's Connect!
 
-- [Behance](https://www.behance.net/mariammohamed205)
-- [Kaggle](https://www.kaggle.com/mariammmmmmmmmmmmmm)
-- [Email](mailto:mariammosayed5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariammohamed205)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariam-29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mariamm.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariammosayed5@gmail.com)
 
 ---
 
-> "Creativity is intelligence having fun." – Albert Einstein
+<div align="center">
+  
+### 💡 "Turning data into intelligence, one model at a time"
 
-Thanks for visiting! If you enjoy my work, feel free to star ⭐ my projects or reach out for collaboration.
+![Profile Views](https://komarev.com/ghpvc/?username=mariam-29&color=blueviolet&style=flat-square)
+
+</div>
