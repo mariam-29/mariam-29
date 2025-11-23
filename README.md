@@ -1,4 +1,12 @@
-<p align="left">Hi, I'm Mariam M. ElSherif, a CS student, ML engineer, and NASA Space Apps 2025 global nominee.<br>I build end-to-end deep learning systems and work on research in PLMs .<br>I'm currently diving into quantum computing, AI agents and UI/UX.</p>
+<h1 align="left">Hi, I'm Mariam M. ElSherif</h1>
+
+###
+
+<p align="left">a CS student, ML engineer, and NASA Space Apps 2025 global nominee.<br>I build end-to-end deep learning systems and work on research in PLMs .<br>I'm currently interested in quantum computing, AI agents and UI/UX.</p>
+
+###
+
+<h4 align="left">Tech Stack :</h4>
 
 ###
 
