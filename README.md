@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">a CS student, ML engineer, and NASA Space Apps 2025 global nominee.<br>I build end-to-end deep learning systems and work on research in PLMs .<br>I'm currently interested in quantum computing, AI agents and UI/UX.</p>
+<p align="left">a CS student, ML engineer, and NASA Space Apps 2025 global Finalist.<br>I build end-to-end deep learning systems and work on research in PLMs .<br>I'm currently interested in quantum computing, AI agents and UI/UX.</p>
 
 ###
 
